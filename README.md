@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Technology
 - 🌱 I’m currently learning ...Btech CSE
 - 💞️ I’m looking to collaborate on ...Web projects
-- 📫 How to reach me ...john.cornellews@kalvium.community
+- 📫 How to reach me ... john.cornellews@kalvium.community
 
 <!---
 johncornelles/johncornelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
